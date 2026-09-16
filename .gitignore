@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+# local working files kept next to the site (originals, PDFs, bundle) — not published
+/*.jpg
+/*.JPG
+/*.jpeg
+/*.png
+/*.pdf
+/*.zip
+/*.lnk
+/.claude/
